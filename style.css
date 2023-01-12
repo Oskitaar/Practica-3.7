@@ -1,0 +1,9 @@
+h1#fecha{
+    text-align: center;
+}
+
+div#azul{
+    background-color: blue;
+    width: 250px;
+    height: 100px;
+}
