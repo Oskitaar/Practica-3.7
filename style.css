@@ -4,6 +4,39 @@ h1#fecha{
 
 div#azul{
     background-color: blue;
-    width: 250px;
+    width: 480px;
     height: 100px;
+    display: inline-block;
+}
+
+div#rojo{
+    background-color: red;
+    width: 480px;
+    height: 100px;
+    display: inline-block;
+}
+
+div#amarillo{
+    background-color: yellow;
+    width: 480px;
+    height: 100px;
+    display: inline-block;
+}
+
+div#verde{
+    background-color: green;
+    height: 60px;
+}
+
+p#cal{
+    font-size: large;
+}
+
+span#estudio{
+    text-decoration: underline;
+}
+
+p#web{
+    font-size: larger;
+    background-color: lightblue;
 }
